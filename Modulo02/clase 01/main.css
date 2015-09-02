@@ -1,0 +1,41 @@
+.caja1{
+	width: 300px;
+	
+	background-color: red;
+}
+
+.caja2{
+	width: 300px;
+	background-color: blue;
+	color: white;
+}
+
+a{
+	background-color: green;
+	color: white;
+}
+span{
+	background-color:maroon;
+	color: white;
+}
+.box1{
+width: 200px;
+height:400px;
+background-color: blue;
+display: inline-block;
+}
+
+.box2{
+width: 700px;
+height:400px;
+background-color: skyblue;
+display: inline-block;	
+
+}
+
+.box3{
+	width: 200px;
+	height:400px;
+	background-color: maroon;
+	display: none;
+}

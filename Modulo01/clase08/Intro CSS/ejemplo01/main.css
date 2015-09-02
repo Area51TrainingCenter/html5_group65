@@ -1,0 +1,22 @@
+#seccionDeportes .texto{
+	color: red;
+}
+ h2{
+ 	font-size: 30px;
+ }
+
+#seccionDeportes h2{
+color: red;
+}
+
+#seccionNoticias h2{
+color: blue;
+}
+
+
+
+
+body
+{
+font-family: arial	
+}

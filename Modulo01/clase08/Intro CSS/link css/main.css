@@ -1,0 +1,56 @@
+/* definicion de propiedad por el nombre de la etiqueta o tag
+p{
+	color: orange
+}
+*/
+
+
+
+
+span{
+	color: blue;
+	font-size: 18px;
+}
+
+/* identificadores en css */
+
+/* indentificador de tipo id */
+/* la caracteristica : id no se deberia repetir */
+#parrafo1{
+	color:red;
+
+}
+
+#parrafo2{
+	color:green;
+
+}
+
+
+/* indentificador de tipo clase */
+
+.text-red{
+	color: red;
+
+}
+
+.text-blue{
+	color: blue;
+
+}
+
+.text-size{
+	font-size: 30px;
+}
+
+
+
+h2{
+	color: black;
+	font-size: 20px;
+}
+
+
+h2{
+	color: pink;
+}

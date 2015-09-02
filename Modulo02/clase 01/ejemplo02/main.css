@@ -1,0 +1,31 @@
+body{
+	background-color: black;
+	color:white;
+}
+.caja-general{
+	width: 300px;
+	height: 200px;
+	background-color: red;
+	/*margin: 100px;*/
+	/*margin-left: 100px;*/
+	margin-top: 100px;
+	margin-bottom: 100px;
+	/*margin-top:500px; */
+}
+.conten1{
+	width: 300px;
+	height: 200px;
+
+	background-color: blue;
+	margin-top: 50px;
+	
+	
+}
+
+.conten2{
+	width: 300px;
+	height: 200px;
+	background-color: green;
+
+	
+}

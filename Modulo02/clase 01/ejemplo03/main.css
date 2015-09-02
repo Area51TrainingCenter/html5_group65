@@ -1,0 +1,31 @@
+body{
+	
+}
+
+.contenedor{
+	width:1024px;
+	
+	
+/*	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0px;
+	margin-bottom:0px;
+*/
+	/*margin:0px auto 0px auto;*/
+	/* margin : top right bottom left; */
+	
+	margin:0px auto ;
+	/* margin : top y bottom , right yleft; */
+}
+.menu
+{
+	background-color: black;
+}
+.menu li{
+	
+	color: white;
+	display: inline-block;
+	font-size: 15px;
+	font-family: arial;
+	margin: 10px;
+}

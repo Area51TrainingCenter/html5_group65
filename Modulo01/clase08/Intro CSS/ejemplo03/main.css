@@ -1,0 +1,17 @@
+.ui-title-1{
+	background-color: red;
+	color: white;
+	width: 450px;
+}
+
+.ui-sub-title{
+	background-color: blue;
+	color: white;
+	width: 250px;
+}
+.texto2{
+	background-color: green;
+	color:white;
+	width: 300px;
+}
+.texto3{background-color: skyblue;color:white;}

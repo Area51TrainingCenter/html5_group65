@@ -1,0 +1,47 @@
+.caja1{
+	width: 300px;
+	height: 300px;
+	background-color: red;
+	display: inline-block;
+
+}
+
+.caja2{
+	width: 300px;
+	height: 300px;
+	background-color: green;
+	display: inline-block;
+
+
+}
+
+.caja3{
+	width: 300px;
+	height: 300px;
+	background-color: blue;
+	display: inline-block;
+}
+
+.menu-nav
+{
+	background-color: black;
+}
+
+.menu-nav li{
+	color: white;
+	font-size: 20px;
+	display: inline-block;
+	padding: 10px;
+
+}
+.menu-nav li:hover{
+	background-color: white;
+	color: black;
+}
+.contenedor{
+	width: 970px;
+	height: 800px;
+
+	margin: 0 auto;
+
+}
