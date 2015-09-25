@@ -1,0 +1,57 @@
+.wrapper{
+	width: 1024px;
+	margin: 0 auto;
+	padding-top: 45px;
+}
+
+
+ul li{
+	display: inline-block;
+	vertical-align: top;
+	padding: 10px;
+	color: white;
+	font-family: arial;
+	font-size: 18px;
+}
+nav{
+	background-color: black;
+}
+
+section{
+	width: 700px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+section article{
+	width: 160px;
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 20px;
+
+}
+section article img{
+	width: 100%
+	}
+aside{
+	width: 300px;
+		display: inline-block;
+		vertical-align: top;
+	}
+
+.menu-fijo{
+	position: fixed;
+	width: 1024px;
+	top: 0px;
+	/*bottom: 0px;*/
+}
+
+.arrow-up{
+	width: 100px;
+	height: 100px;
+	background-color: black;
+	color: white;
+	position: fixed;
+	bottom: 50px;
+	right: 200px;
+}

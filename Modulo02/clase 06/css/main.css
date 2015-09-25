@@ -1,0 +1,125 @@
+body{
+	font-family: 'Roboto Condensed', sans-serif;
+}
+a{
+	text-decoration: none;
+}
+.wrapper{
+	width: 1024px;
+	margin:0 auto;
+	/*background-color: gray;*/
+}
+
+/**********************/
+/*** estilos header ***/
+/**********************/
+.ui-logo{
+	display: inline-block;
+	vertical-align: top;
+	padding-top: 20px;
+	/*background-color: red;*/
+
+}
+
+
+.ui-menu-top{
+	display: inline-block;
+	vertical-align: top;
+	/*background-color: blue;*/
+	width: 850px;
+	text-align: right;
+
+}
+
+.ui-menu-top li{
+	display: inline-block;
+	vertical-align: top;
+	padding: 20px 15px;
+}
+
+.ui-menu-top li a{
+	color: gray;
+	text-decoration: none;
+
+}
+.ui-menu-top li a:hover{
+color: green;
+text-decoration: none;
+}
+
+
+.menu-home{
+	background-color: black;
+	border-radius: 7px;
+	margin-top: 10px;
+}
+
+.menu-home ul li{
+	color: white;
+	display: inline-block;
+	vertical-align: top;
+	padding: 17px 15px;
+	font-size: 14px;
+}
+.menu-home span{
+	color: white;
+	padding: 17px 15px;
+	display: inline-block;
+	vertical-align: top;
+	font-size: 14px;
+}
+
+.menu-home ul{
+	
+	display: inline-block;
+	vertical-align: top;
+	 width: 860px;
+
+}
+
+.active{
+	background-color: #2ecc71;
+	
+	border-top-left-radius: 7px;
+	-moz-border-top-left-radius: 7px;
+	-webkit-border-top-left-radius: 7px;
+	border-bottom-left-radius: 7px;
+	-moz-border-bottom-left-radius: 7px;
+	-webkit-border-bottom-left-radius: 7px;
+
+
+}
+/**************************/
+/*** fin estilos header ***/
+/**************************/
+
+
+/*** estilos seccion principal ***/
+.rel{
+	position: relative;
+}
+.seccion-slider{
+	margin-top: 10px;
+}
+.ui-img-seccion
+{width: 100%}
+
+.ui-text-slider{
+	position: absolute;
+}
+
+.text1{
+	font-size: 35px;
+    color: gray;
+    top: 110px;
+    left: 160px;
+}
+
+.text2{
+	font-size: 60px;
+	font-weight: bold;
+    
+    top: 220px;
+    left: 85px;
+    color: black;
+}

@@ -1,0 +1,48 @@
+.wrapper{
+	width: 970px;
+	margin: 0 auto;
+	
+}
+
+.menu-site {
+	background-color: black;
+}
+.menu-site li{
+display: inline-block;
+vertical-align: top;
+padding: 10px 15px;
+font-family: arial;
+font-size: 18px;
+color: white;
+}
+
+
+.menu-site .ico-nav{
+	display: none;
+}
+
+
+@media (max-width: 970px){
+
+	.wrapper{
+		width: 100%;
+	}
+}
+
+@media (max-width: 600px){
+
+	.menu-site{
+		text-align: right;
+	}
+	.menu-site li{
+		display: none;
+	}
+
+	.menu-site .ico-nav{
+	display: block;
+
+	}
+
+
+
+}

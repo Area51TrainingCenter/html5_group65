@@ -1,0 +1,66 @@
+.wrapper{
+	width: 1024px;
+	margin: 0 auto;
+
+
+}
+
+.box1{
+	width: 300px;
+	height: 300px;
+	background-color: red;
+	
+}
+.categoria{
+	width: 100px;
+	height: 50px;
+	background-color: blue;	
+	position: absolute;
+	
+	bottom: 0px;
+	right: 0px;
+}
+.item-news{
+	width: 620px;
+	position: relative;
+}
+h2{
+	font-size: 40px;
+	font-family: arial;
+	color: white;
+	position: absolute;
+	bottom: 0px;
+	background-color: rgba(0, 0, 0, 0.75);
+	padding: 10px;
+	z-index: 100;
+
+}
+
+.shared-ico{
+	position: absolute;
+	bottom:20px;
+	left: 10px;
+	z-index: 150;
+}
+
+.shared-ico img{opacity: 1;border-radius: 50%;}
+.shared-ico img:hover{opacity: 1}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+a:hover{
+	text-decoration: underline;
+}
+.ui-categoria{
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+	background-color: yellow;
+	color: black;
+	padding: 15px;
+
+	z-index: 200;
+}

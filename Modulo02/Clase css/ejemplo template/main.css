@@ -1,0 +1,47 @@
+.wrapper{
+	width: 1024px;
+	margin: 0 auto;
+}
+
+.box-info{
+	width: 200px;
+	height: 200px;
+	display: inline-block;
+	vertical-align: top;
+	border-radius: 50%;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	-o-border-radius: 50%;
+	-ms-border-radius: 50%;
+}
+
+.ui-business
+{
+background-color: rgb(106,33,62);
+text-align: center;
+}
+
+.ui-business:hover{
+	background-color: rgba(106,33,62,0.5);
+}
+.ui-business span{
+	font-family: arial;
+	font-size: 25px;
+	font-weight: bold;
+	display: inline-block;
+	margin-top: 75px;
+	color: white;
+
+
+}
+
+.ui-marketing
+{
+background-color: rgb(233,127,43);
+}
+
+.ui-financial
+{
+background-color: rgb(197,181,70);
+
+}
